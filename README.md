@@ -1,4 +1,4 @@
-## Hi there 👋
+LeseHeld ist eine app, die Eltern dabei hilft, Ihren Kindern frueh das lesen bei zu bringen.
 
 <!--
 **Leseheld/Leseheld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
